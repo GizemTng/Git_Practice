@@ -5,4 +5,6 @@ public class Hat {
     //line 3
     //line 4
     //line 5
+
+    //more lines
 }
